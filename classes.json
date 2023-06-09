@@ -1,0 +1,68 @@
+{
+  "languageClasses": [
+    {
+      "name": "English",
+      "image": "https://th.bing.com/th/id/OIG.83vK6Sk6HnaFce2E9awl?pid=ImgGn",
+      "instructor": "John Smith",
+      "enrolledStudents": 25,
+      "classRatings": 4.5,
+      "Price": 99.0
+    },
+    {
+      "name": "Spanish",
+      "image": "https://th.bing.com/th/id/OIG.kplwtAOFkKAe0XX6A1OH?pid=ImgGn",
+      "instructor": "Maria Garcia",
+      "enrolledStudents": 30,
+      "classRatings": 4.7,
+      "Price": 80.0
+    },
+    {
+      "name": "Arabic",
+      "image": "https://th.bing.com/th/id/OIG.tXQvT_CFAG4Ji4aJtFkz?pid=ImgGn",
+      "instructor": "Ahmed Ali",
+      "enrolledStudents": 20,
+      "classRatings": 4.3,
+      "Price": 79.0
+    },
+    {
+      "name": "Urdu",
+      "image": "https://th.bing.com/th/id/OIG.rYGL9bB_ioTkgRQ132uq?pid=ImgGn",
+      "instructor": "Zara Khan",
+      "enrolledStudents": 15,
+      "classRatings": 4.2,
+      "Price": 99.0
+    },
+    {
+      "name": "Chinese",
+      "image": "https://th.bing.com/th/id/OIG.JzYtTQuuzmV0h5OIQDEf?pid=ImgGn",
+      "instructor": "Li Wei",
+      "enrolledStudents": 35,
+      "classRatings": 4.8,
+      "Price": 95.0
+    },
+    {
+      "name": "Korean",
+      "image": "https://th.bing.com/th/id/OIG.GJ.ZKMU2r5Tf7foquWpQ?pid=ImgGn",
+      "instructor": "Kim Min-jun",
+      "enrolledStudents": 28,
+      "classRatings": 4.6,
+      "Price": 84.0
+    },
+    {
+      "name": "Russian",
+      "image": "https://th.bing.com/th/id/OIG.nZlxJuxn8dkB38aYPMMt?pid=ImgGn",
+      "instructor": "Anna Petrova",
+      "enrolledStudents": 22,
+      "classRatings": 4.4,
+      "Price": 90.0
+    },
+    {
+      "name": "German",
+      "image": "https://th.bing.com/th/id/OIG.sHfRpbWodKC49aLB.C8X?pid=ImgGn",
+      "instructor": "Markus Müller",
+      "enrolledStudents": 18,
+      "classRatings": 4.1,
+      "Price": 87.0
+    }
+  ]
+}
