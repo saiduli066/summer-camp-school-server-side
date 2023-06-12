@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "rating": 4.5,
+      "review": "I have greatly improved my language skills using this website. The lessons are well-structured and engaging. Highly recommended!"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "rating": 5,
+      "review": "The language learning platform provided by this website is fantastic! The interactive exercises and practice sessions have boosted my confidence in speaking and writing."
+    },
+    {
+      "id": 3,
+      "name": "David Lee",
+      "rating": 3.8,
+      "review": "This website has helped me grasp the basics of the language. However, I wish there were more advanced lessons available."
+    },
+    {
+      "id": 4,
+      "name": "Sarah Johnson",
+      "rating": 4,
+      "review": "I'm impressed with the quality of teaching and resources offered by this website. It has made learning a new language enjoyable and accessible."
+    }
+  ]
+}
